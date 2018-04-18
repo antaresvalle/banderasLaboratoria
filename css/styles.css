@@ -13,7 +13,7 @@ h1 {
 }
 
 .bandera, .bandera p{
-	display: block;
+	display: inline-block;
 	height: 20vh;
 	width: 20%;
 }
